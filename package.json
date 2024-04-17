@@ -1,0 +1,16 @@
+{
+  "name": "json-parse-benchmark",
+  "version": "1.0.0",
+  "description": "benchmark JSON vs JSON5 parsing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alex Mitchell",
+  "license": "ISC",
+  "dependencies": {
+    "json5": "^2.2.3",
+    "tinybench": "^2.7.0"
+  },
+  "type": "module"
+}

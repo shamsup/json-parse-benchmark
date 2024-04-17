@@ -1,0 +1,131 @@
+{
+  "data": [
+    {
+      "_id": "661f5cadb2e7f220a1ef9687",
+      "index": 0,
+      "guid": "d5e03052-0f1e-4784-955b-b1866ac71a52",
+      "isActive": true,
+      "balance": "$3,796.06",
+      "picture": "http://placehold.it/32x32",
+      "age": 22,
+      "eyeColor": "brown",
+      "name": "Norman Estes",
+      "gender": "male",
+      "company": "UPDAT",
+      "email": "normanestes@updat.com",
+      "phone": "+1 (980) 519-2651",
+      "address": "456 Harrison Avenue, Cannondale, Arizona, 1140",
+      "about": "Culpa aute commodo in esse aute Lorem ex proident deserunt enim officia quis. Ullamco fugiat eu tempor ullamco fugiat. Quis qui consequat nostrud officia aute tempor ipsum tempor est non. Elit nostrud esse mollit est do. Irure excepteur fugiat cupidatat ullamco esse qui fugiat duis duis sint cillum. Ipsum proident sit commodo aute nisi pariatur irure reprehenderit do minim reprehenderit ad adipisicing.\r\n",
+      "registered": "2021-08-29T04:41:17 +07:00",
+      "latitude": 10.526022,
+      "longitude": -169.606668,
+      "tags": [
+        "enim",
+        "velit",
+        "Lorem",
+        "fugiat",
+        "laboris",
+        "commodo",
+        "veniam"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Richards Wilkins"
+        },
+        {
+          "id": 1,
+          "name": "Hinton Mosley"
+        },
+        {
+          "id": 2,
+          "name": "Ericka Parks"
+        }
+      ],
+      "greeting": "Hello, Norman Estes! You have 10 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "661f5cade2fe83835c80cb4d",
+      "index": 1,
+      "guid": "31491590-07c7-4661-a81e-5b6aba4b3bc6",
+      "isActive": false,
+      "balance": "$2,724.27",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "brown",
+      "name": "Penelope Golden",
+      "gender": "female",
+      "company": "BUZZNESS",
+      "email": "penelopegolden@buzzness.com",
+      "phone": "+1 (928) 582-3140",
+      "address": "928 Eagle Street, Northridge, Puerto Rico, 8009",
+      "about": "Culpa aliquip cupidatat deserunt laboris do exercitation nisi. Esse ullamco nisi quis reprehenderit sint Lorem est voluptate Lorem et ipsum. Officia non ea aliqua tempor esse aliqua fugiat Lorem veniam enim quis eiusmod. Qui fugiat nostrud pariatur pariatur est culpa proident excepteur et quis nostrud amet. Ullamco deserunt eu veniam cillum velit tempor do. Non tempor et consectetur irure minim.\r\n",
+      "registered": "2015-12-11T08:48:40 +08:00",
+      "latitude": 36.529008,
+      "longitude": 152.319021,
+      "tags": [
+        "qui",
+        "labore",
+        "exercitation",
+        "dolore",
+        "reprehenderit",
+        "dolore",
+        "commodo"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Lana Hinton"
+        },
+        {
+          "id": 1,
+          "name": "Juliet Head"
+        },
+        {
+          "id": 2,
+          "name": "Lane Medina"
+        }
+      ],
+      "greeting": "Hello, Penelope Golden! You have 8 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "661f5cad082d70596a859cba",
+      "index": 2,
+      "guid": "17b45844-f3ba-44d5-bd09-aff7ccdd0e77",
+      "isActive": true,
+      "balance": "$3,480.09",
+      "picture": "http://placehold.it/32x32",
+      "age": 24,
+      "eyeColor": "green",
+      "name": "Gordon Schultz",
+      "gender": "male",
+      "company": "QUARX",
+      "email": "gordonschultz@quarx.com",
+      "phone": "+1 (926) 469-3782",
+      "address": "560 Elm Avenue, Bascom, Hawaii, 4660",
+      "about": "Est ullamco nisi officia quis irure quis magna Lorem cillum occaecat Lorem. Minim culpa voluptate Lorem ex adipisicing est nulla irure labore incididunt culpa nisi. Ea officia aliquip fugiat sint incididunt velit anim commodo commodo laboris cillum. Do mollit ad dolor do officia excepteur nisi sint labore.\r\n",
+      "registered": "2018-09-19T08:38:41 +07:00",
+      "latitude": -39.844695,
+      "longitude": 165.495635,
+      "tags": ["amet", "qui", "fugiat", "ipsum", "anim", "irure", "quis"],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Gina Mccoy"
+        },
+        {
+          "id": 1,
+          "name": "Logan Benson"
+        },
+        {
+          "id": 2,
+          "name": "Durham Burnett"
+        }
+      ],
+      "greeting": "Hello, Gordon Schultz! You have 10 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
+}
